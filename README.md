@@ -9,9 +9,6 @@
   https://github.com/Krishna-sm/Car-Rent-PHP-project.git
 ```
 
-
-
-![image](https://user-images.githubusercontent.com/105251808/222946891-7127e32c-70c0-49a6-a8bf-b928beef4e3b.png)
 ![image](https://user-images.githubusercontent.com/105251808/222946899-2c902532-7c27-415c-b0b6-71a056c9ebf9.png)
 ![image](https://user-images.githubusercontent.com/105251808/222946904-1512f208-e942-4250-a946-7e8d0ba000d4.png)
 ![image](https://user-images.githubusercontent.com/105251808/222946911-b2b5e659-7428-4ea4-9a4d-1775e19fde9a.png)
